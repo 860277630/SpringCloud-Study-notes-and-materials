@@ -7,9 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="nacosclient8789" />
         <module name="configclient9066" />
         <module name="helloalibabacloud" />
-        <module name="nacosclient8789" />
         <module name="products9098" />
         <module name="users9099" />
       </profile>
@@ -18,11 +18,6 @@
       <module name="aa9090" target="1.8" />
       <module name="bb" target="1.8" />
       <module name="bb9091" target="1.8" />
-      <module name="configclient9066" target="1.8" />
-      <module name="helloalibabacloud" target="1.8" />
-      <module name="nacosclient8789" target="1.8" />
-      <module name="products9098" target="1.8" />
-      <module name="users9099" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
